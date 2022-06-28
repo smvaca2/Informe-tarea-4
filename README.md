@@ -1,12 +1,18 @@
 # Informe-tarea-4
+
 ***1. OBJETIVOS***
+
 ***2. MARCO TEÓRICO*** 
+
 ![]()
 ![]()
 ![]()
 ![]()
+
 ***3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS***
+
 **=====================EJERCICIOS CAPITULO 4==========================**
+
 **2)Visualice y trace los siguientes circuitos en serie-paralelo **
 
 ![]()
@@ -15,7 +21,7 @@
 
 ![]()
 
-**6)Desarrolle un diagrama esquemático de la tarjeta de circuito impreso de doble cara mostrada en la figura 7-65, y marque los valores de resistor.**
+**6)Desarrolle un diagrama esquemático de la tarjeta de circuito impreso de doble cara mostrada en la figura 7-65, y marque los valores de resistor.**
 
 ![]()
 
