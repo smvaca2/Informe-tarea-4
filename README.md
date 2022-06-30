@@ -116,7 +116,29 @@ de la rama R2 de la figura 8-69.**
 
 ![]()
 
-**10)**
+Haciendo 0 V2:
+
+Rt=R1+R3/2 -----------------> Rt=1.5kΩ
+
+It=Vs/Rt -------------------> It=2/1.5=1.33mA
+
+Rs=(R3/R2+R4+R5) ---------->0.185Ω
+
+I=(Rs)(It)= 0.185x1.33=0.24mA
+
+Haciendo 0 V1:
+
+Rt=R3+R1/2------------------>Rt=1.5kΩ
+
+It=3/1.5=2mA
+
+Rs=(R1/R2+R4+R5)-------->0.185
+
+I=0.185x2=0.37mA
+
+Sumando las dos corrientes I2=0.24+0.37= 0.61mA
+
+**10)Con el teorema de superposición, determine la corriente de carga en cada uno de los circuitos mostrados en la figura 8-71**
 **12)**
 **14)**
 **16)**
