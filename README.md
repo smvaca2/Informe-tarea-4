@@ -99,6 +99,7 @@ de intervalo.**
 
 
 **=====================EJERCICIOS CAPITULO ==========================**
+
 **2)Convierta las fuentes de voltaje prácticas de la figura 8-67 en fuentes de corriente equivalentes.**
 
 ![](https://github.com/smvaca2/Informe-tarea-4/blob/9b76e72d07118d707fcb4393c44f9e29b99cb85e/ej2-8.PNG)
