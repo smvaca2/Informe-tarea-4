@@ -8,7 +8,7 @@
 ![](https://github.com/smvaca2/Informe-tarea-4/blob/8df484a4f19737568e5b5286af8428cc46df9ecb/t2.PNG)
 ![](https://github.com/smvaca2/Informe-tarea-4/blob/8df484a4f19737568e5b5286af8428cc46df9ecb/t3.PNG)
 ![](https://github.com/smvaca2/Informe-tarea-4/blob/8df484a4f19737568e5b5286af8428cc46df9ecb/t4.PNG)
-![]()https://github.com/smvaca2/Informe-tarea-4/blob/8df484a4f19737568e5b5286af8428cc46df9ecb/t5.PNG)
+![](https://github.com/smvaca2/Informe-tarea-4/blob/8df484a4f19737568e5b5286af8428cc46df9ecb/t5.PNG)
 ![](https://github.com/smvaca2/Informe-tarea-4/blob/8df484a4f19737568e5b5286af8428cc46df9ecb/t6.PNG)
 ![](https://github.com/smvaca2/Informe-tarea-4/blob/8df484a4f19737568e5b5286af8428cc46df9ecb/t7.PNG)
 ![](https://github.com/smvaca2/Informe-tarea-4/blob/8df484a4f19737568e5b5286af8428cc46df9ecb/t8.PNG)
