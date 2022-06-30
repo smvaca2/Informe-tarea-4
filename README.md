@@ -98,11 +98,24 @@ de intervalo.**
 **
 
 
-**=====================EJERCICIOS CAPITULO 6==========================**
-**2)**
-**4)¿?
-**6) **
-**8)**
+**=====================EJERCICIOS CAPITULO ==========================**
+**2)Convierta las fuentes de voltaje prácticas de la figura 8-67 en fuentes de corriente equivalentes.**
+
+![]()
+
+**4)Trace los circuitos equivalentes de fuentes de voltaje y corriente para la batería tipo D del problema 3**
+
+![]()
+
+**6) Convierta las fuentes de corriente prácticas de la figura 8-68 en fuentes de voltaje equivalentes.**
+
+![]()
+
+**8)Use el teorema de superposición para determinar la corriente a través, y el voltaje entre, los extremos
+de la rama R2 de la figura 8-69.**
+
+![]()
+
 **10)**
 **12)**
 **14)**
