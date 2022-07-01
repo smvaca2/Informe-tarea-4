@@ -66,7 +66,7 @@ _Repasar las conversiones y-delta delta-y
 
 ***4)Video***
 
-
+https://www.youtube.com/watch?v=w19HMWCFxME
 
 ***5.Conclusiones***
 
